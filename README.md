@@ -27,4 +27,5 @@ It is a fully guided data analytics project with all the materials included.
 
 ## References
 Video - https://www.youtube.com/watch?v=4QkYy1wANXA&ab_channel=codebasics
+
 Resources - https://codebasics.io/resources/data-analytics-project-for-beginners
