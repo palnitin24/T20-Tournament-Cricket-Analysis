@@ -8,10 +8,6 @@ End-to-end sports data analytics project for your resume.
 In this project, we will cover web scraping (from the ESPN Cricinfo website), python, pandas, 
 and Power BI to perform analyses on T20 world cup cricket data.
 
-**Note** : The Bright Data interface has been updated as part of their product enhancement. 
-To access the Datasets & Web Scraper IDE, please select the third icon from the left-side menu bar. 
-Then, click on the **'My Scrapers'** option. There, you will find the collectors. 
-
 
 In this end-to-end data analytics project for beginners and advanced users, 
 we have used cricket T20 world cup (2022) data to build insights on a best 11 players team 
