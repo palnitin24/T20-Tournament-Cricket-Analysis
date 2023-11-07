@@ -17,6 +17,9 @@ and cleaning in pandas, followed by building dashboards in power bi.
 This is a solid data science resume project that will make your resume stand out in the competition. 
 It is a fully guided data analytics project with all the materials included.
 
+**You can download the file and use this for analysing players trend accordingly.**
+**You can also navigate through out the power bi visualization with the help of differet buttons.**
+
 ![Cricket Analysis](https://github.com/palnitin24/T20-Tournament-Cricket-Analysis/assets/142030502/a9a642a1-8396-4740-aea0-c32f8ebb7cf3)
 
 
